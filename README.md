@@ -17,7 +17,7 @@ TermiNet is a command-line tool that enables you to search for your favorite TV 
 ```
 sudo apt update -y
 
-sudo apt-get install python3
+sudo apt install python3
 
 pip install lxml
 
@@ -28,9 +28,9 @@ pip install beautifulsoup4
 
 ## Installation For Linux/Termux
 ```
-git clone https://github.com/bubbs-sh/TermNet.git
+git clone https://github.com/bubbs-sh/TermiNet.git
 
-cd TermNet
+cd TermiNet
 
 pip install -r requirements.txt
 ```
@@ -51,7 +51,3 @@ pip install -r requirements.txt
 - To download TV show/series: ` python3 getnet.py -m [show URL] `
 
 **Open download link in a browser**
-
-
-  
-
